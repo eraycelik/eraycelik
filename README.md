@@ -54,5 +54,5 @@ Here are some of the projects I’m proud of:
 </p>
 
 <p align="center">
-  <strong>Thank you for visiting my profile! 😊</strong>
+  <strong>Thank you for visiting my profile 😊</strong>
 </p>
