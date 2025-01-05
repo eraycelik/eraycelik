@@ -57,7 +57,3 @@ Here are some of the projects I’m proud of:
   <strong>Thank you for visiting my profile 😊</strong>
 </p>
 ---
-
-### Watch the Snake Eat Contributions! 🐍
-
-![Snake animation](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
