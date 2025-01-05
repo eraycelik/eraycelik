@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub Repository! 👋</h1>
+<h1 align="center">Welcome to My GitHub Repository👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Passion-blue?style=flat-square" alt="Code Passion Badge" />
