@@ -46,9 +46,6 @@ Hi there! I'm a mobile developer specializing in Swift, Flutter, and Firebase-po
 
 Here are some of the projects I’m proud of:
 
-1. **[TaskManager App](#)**: A task management app built with Flutter and Firebase.  
-2. **[Fitness Tracker](#)**: A Swift app for tracking workouts and progress.  
-3. **[E-Commerce App](#)**: A cross-platform shopping app with real-time updates via Firebase.  
 
 ---
 
