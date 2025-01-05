@@ -20,7 +20,7 @@ Hi there! I'm a mobile developer specializing in Swift, Flutter, and Firebase-po
 - 🔭 **Currently Working On:** Cross-platform mobile apps and backend services using Firebase.  
 - 🌱 **Learning:** Advanced Flutter animations, SwiftUI, and Cloud Functions.  
 - 💬 **Ask Me About:** Mobile development, Firebase integration, and app architecture.  
-- 📫 **Reach Me At:** [YourEmail@example.com](mailto:YourEmail@example.com)  
+- 📫 **Reach Me At:** 
 - ⚡ **Fun Fact:** I love turning ideas into apps that people love to use! 🚀  
 
 ---
