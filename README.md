@@ -7,10 +7,6 @@
   <img src="https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase&logoColor=white" alt="Firebase Badge" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding GIF" width="400" />
-</p>
-
 ---
 
 ## About Me 🌟
