@@ -13,11 +13,11 @@
 
 Hi there! I'm a mobile developer currently improving my skills in Swift, Flutter, and Firebase-powered applications. Here's a little more about me:
 
-- 🔭 **Currently Working On:** Cross-platform mobile apps and backend services using Firebase.  
-- 🌱 **Learning:** Advanced Flutter animations, SwiftUI, and Cloud Functions.  
-- 💬 **Ask Me About:** Mobile development, Firebase integration, and app architecture.  
-- 📫 **Reach Me At:** 
-- ⚡ **Fun Fact:** I love turning ideas into apps that people love to use! 🚀  
+-  **Currently Working On:** Cross-platform mobile apps and backend services using Firebase.  
+-  **Learning:** Advanced Flutter animations, SwiftUI, and Cloud Functions.  
+-  **Ask Me About:** Mobile development, Firebase integration, and app architecture.  
+-  **Reach Me At:** 
+-  **Fun Fact:** I love turning ideas into apps that people love to use 
 
 ---
 
