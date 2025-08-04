@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to My GitHub Repository👋</h1>
+<h1 align="center">Welcome to My GitHub Repository</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Passion-blue?style=flat-square" alt="Code Passion Badge" />
@@ -11,7 +11,7 @@
 
 ---
 
-## About Me 🌟
+## About Me 
 
 Hi there! I'm a mobile developer currently improving my skills in Swift, Flutter, and Firebase-powered applications. Here's a little more about me:
 
@@ -40,7 +40,7 @@ Hi there! I'm a mobile developer currently improving my skills in Swift, Flutter
 
 ---
 
-## Projects 🚀
+## Projects 
 
 Here are some of the projects I’m proud of:
 
