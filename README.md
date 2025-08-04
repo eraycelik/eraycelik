@@ -13,7 +13,7 @@
 
 ## About Me 
 
-Hi there! I'm a mobile developer currently improving my skills in Swift, Flutter, and Firebase-powered applications. Here's a little more about me:
+Hi there I'm a mobile developer currently improving my skills in Swift, Flutter, and Firebase-powered applications. Here's a little more about me:
 
 -  **Currently Working On:** Cross-platform mobile apps and backend services using Firebase.  
 -  **Learning:** Advanced Flutter animations, SwiftUI, and Cloud Functions.  
