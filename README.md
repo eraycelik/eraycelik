@@ -47,9 +47,7 @@ Here are some of the projects I’m proud of:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?eraycelik=YourGitHuberaycelik&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+
 
 <p align="center">
   <strong>Thank you for visiting my profile 😊</strong>
