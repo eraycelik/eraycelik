@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift&logoColor=white" alt="Swift Badge" />
   <img src="https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Badge" />
   <img src="https://img.shields.io/badge/-Firebase-yellow?style=flat-square&logo=firebase&logoColor=white" alt="Firebase Badge" />
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase Badge" />
+
 </p>
 
 ---
